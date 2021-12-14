@@ -1,6 +1,6 @@
 apiVersion: v2
 name: pyroscope
-description: Demo harden-runner
+description: Update of demo of harden-runner
 type: application
-version: 0.2.23
+version: 0.2.24
 appVersion: "0.4.1"
