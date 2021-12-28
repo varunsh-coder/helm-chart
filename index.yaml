@@ -3,12 +3,12 @@ entries:
   pyroscope:
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2021-12-14T20:58:41.295901156Z"
+    created: "2021-12-28T04:16:07.991154771Z"
     description: Update of demo of harden-runner
-    digest: 848a0fb430a45ab20caabe3317a1c85583ad678da99da6535d617c34411ea83c
+    digest: b571ff4e52b2c73252a708572da95663b3da7fd9182fa76a80db3cd4225df221
     name: pyroscope
     type: application
     urls:
-    - https://github.com/varunsh-coder/helm-chart/releases/download/pyroscope-0.2.24/pyroscope-0.2.24.tgz
-    version: 0.2.24
-generated: "2021-12-14T20:58:41.295907556Z"
+    - https://github.com/varunsh-coder/helm-chart/releases/download/pyroscope-0.2.25/pyroscope-0.2.25.tgz
+    version: 0.2.25
+generated: "2021-12-28T04:16:07.991159771Z"
